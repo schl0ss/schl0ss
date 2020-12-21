@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About me
 
-## Who am I?
+### Who am I?
 I'm currently a veteran AP Statistics teacher currently enrolled in Georgia Tech's Masters in Analytics with a 4.0 GPA and looking for an exciting career in data science and analytics.
 
 Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusiast, and Dallas Mavericks MFFL.
