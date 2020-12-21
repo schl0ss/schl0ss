@@ -101,7 +101,8 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 
 
 ## How to reach me:
-email: maschlosser@me.com
+* email: maschlosser@me.com
+* LinkedIn: https://www.linkedin.com/in/mattschlosser/
 
 
 
