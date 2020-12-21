@@ -24,18 +24,18 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 
 ## Proficient analytics skills
 * k-fold cross-validation
-* Classification
+* classification
   * CART (classification and regression trees)
   * k nearest neighbor classification
   * SVM (support vector machine)
-* Clustering
+* clustering
   * k-means
-* Predicting response
+* predicting response
   * linear regression
     * lasso, elastic net, ridge
   * logistic regression
   * random forest
-* Time series
+* time series
   * CUSUM (cumulative sum techniques)
   * Triple exponential smoothing (Holt-Winters)
   * ARIMA (auto regressive integrated moving average)
@@ -54,7 +54,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 ## Proficient coding skills
 * Python (Pandas, NumPy, SciPy, Matplotlib, plotnine,  Requests)
 * R (ggplot2, data.table, dplyr, tidyr, plotly, knitr, mlr3, caret)
-  * Also various packages suited to analytical demands
+  * also various packages suited to analytical demands
 * SQL
   * MySQL
   * Amazon Redshift SQL
@@ -78,25 +78,30 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 
 
 ## I'm currently learning...
-* How to translate coursework into portfolio projects :)
+* How to translate coursework into masterful portfolio projects :)
 * Georgia Tech Spring 2020: [CSE 6242: Data and Visual Analytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics)
   * SQLite
-  * Data cleaning
-  * Data integration
+  * data cleaning
+  * data integration
   * D3 (interactive data visualization for the web)
-  * Scalable computing
+  * scalable computing
     * Hadoop, Pig, Hive, Spark, HBase
-  * Classfication and clustering
-  * Graph analytics
+  * classfication and clustering
+  * graph analytics
   * scaling up algorithms with virtual memory
   * text analytics
 
 
 
 ## Future learning ambitions
-* Further expand Python library knowledge: Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, PyTorch
+* further expand Python library knowledge: Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, PyTorch
 * Tableau
 * SCRUM and Agile
+
+
+
+## Fun fact
+I played varsity high school tennis for Plano East High School and was part of the 2010 USTA League National Championship team (3.5 - Adult 18 & Over).
 
 
 
