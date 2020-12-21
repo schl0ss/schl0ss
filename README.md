@@ -21,6 +21,7 @@ I'm currently a veteran AP Statistics teacher currently enrolled in Georgia Tech
 Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusiast, and Dallas Mavericks MFFL.
 
 
+
 ## Proficient analytics skills
 * k-fold cross-validation
 * Classification
@@ -49,6 +50,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
   * AIC (Akaike Information Criterion), BIC (Bayesian Information Criterion)
 
 
+
 ## Proficient coding skills
 * Python (Pandas, NumPy, SciPy, Matplotlib, plotnine,  Requests)
 * R (ggplot2, data.table, dplyr, tidyr, plotly, knitr, mlr3, caret)
@@ -56,6 +58,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 * SQL
   * MySQL
   * Amazon Redshift SQL
+
 
 
 ## Other proficient tech skills and software
@@ -73,6 +76,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 * Daily user of iOS, iPadOS, Windows 10, and macOS
 
 
+
 ## I'm currently learning...
 * How to translate coursework into portfolio projects :)
 * Georgia Tech Spring 2020: [CSE 6242: Data and Visual Analytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics)
@@ -88,10 +92,12 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
   * text analytics
 
 
+
 ## Future learning ambitions
 * Further expand Python library knowledge: Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, PyTorch
 * Tableau
 * SCRUM and Agile
+
 
 
 ## How to reach me:
