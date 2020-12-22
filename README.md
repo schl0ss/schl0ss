@@ -48,7 +48,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 * data imputation
 * distributions
   * binomial, geometric, Weibull, Poisson, exponential, Bernoulli
-* evaulating model performance
+* evaluating model performance
   * AIC (Akaike Information Criterion), BIC (Bayesian Information Criterion)
 
 
@@ -69,7 +69,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
 * RStudio
 * AWS cloud services
   * EC2, Redshift, S3
-* Microsoft Office (Word, Excel, Powerpoint)
+* Microsoft Office (Word, Excel, PowerPoint)
 * Google Suite (Docs, Sheets, Slides, Forms)
 * Slack
 * Zoom
@@ -88,7 +88,7 @@ Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusias
   * D3 (interactive data visualization for the web)
   * scalable computing
     * Hadoop, Pig, Hive, Spark, HBase
-  * classfication and clustering
+  * classification and clustering
   * graph analytics
   * scaling up algorithms with virtual memory
   * text analytics
