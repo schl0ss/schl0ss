@@ -13,8 +13,8 @@ I ship projects with [Claude Code](https://docs.anthropic.com/en/docs/claude-cod
 ### [mooring.social](https://mooring.social)
 An invite-only, anti-algorithm social network where every user is verified by government ID. No bots, no fake accounts, no anonymous harassment. Think early Facebook/MySpace before the algorithms took over.
 
-### [Spike Squad Team Website]
-Real-time volleyball stat tracker built for my daughter's 2nd grade team. Offline-first PWA so coaches can track stats from the gym without worrying about connectivity.
+### Spike Squad Stat Tracker
+Initial Claude Code proving grounds. Real-time volleyball stat tracker built for my daughter's 2nd grade team.
 
 ### [schloss-boss.ai](https://schloss-boss.ai)
 My personal site and portfolio.
