@@ -1,115 +1,57 @@
-<!--
-**schl0ss/schl0ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Matt
 
-Here are some ideas to get you started:
+BI & ML Engineer. Former AP Stats & AP Calc BC teacher and tennis coach who pivoted to generative AI coding, data engineering, and machine learning. B.S. Mathematics from SMU, M.S. Analytics from Georgia Tech (4.0 GPA). All the details are on [LinkedIn](https://www.linkedin.com/in/schl0ss/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Husband, father, Eagle Scout, Cubmaster, tennis player, Dallas Mavericks MFFL.
 
-# About me
+---
 
-## Who am I?
-I'm currently a veteran AP Statistics and AP Calculus BC teacher enrolled in Georgia Tech's Masters in Analytics with a 4.0 GPA and looking for an exciting career in data science and analytics.
+## What I'm building with Claude Code
 
-I have a strong background in statistics, multivariable calculus, and linear algebra (B.S. in Mathematics from SMU) as well as data visualization & communication, software engineering, and data intuition.
+I ship projects with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as my daily driver. It's changed how I think about building software — from idea to deployed product, fast.
 
-Beyond the tagline, I am a husband, father, coder, tennis player, tech enthusiast, and Dallas Mavericks MFFL.
+### [mooring.social](https://mooring.social)
+An invite-only, anti-algorithm social network where every user is verified by government ID. No bots, no fake accounts, no anonymous harassment. Think early Facebook/MySpace before the algorithms took over.
 
+### [Spike Squad Team Website](https://github.com/schl0ss)
+Real-time volleyball stat tracker built for my daughter's 2nd grade team. Offline-first PWA so coaches can track stats from the gym without worrying about connectivity.
 
+### [schloss-boss.ai](https://schloss-boss.ai)
+My personal site and portfolio.
 
-## Proficient analytics skills
-* k-fold cross-validation
-* classification
-  * CART (classification and regression trees)
-  * k nearest neighbor classification
-  * SVM (support vector machine)
-* clustering
-  * k-means
-* predicting response
-  * linear regression
-    * lasso, elastic net, ridge
-  * logistic regression
-  * random forest
-* time series
-  * CUSUM (cumulative sum techniques)
-  * Triple exponential smoothing (Holt-Winters)
-  * ARIMA (auto regressive integrated moving average)
-  * GARCH (generalized autoregressive conditional heteroskedasticity)
-* PCA (principal component analysis)
-* A/B modeling
-* Markov chain
-* data imputation
-* distributions
-  * binomial, geometric, Weibull, Poisson, exponential, Bernoulli
-* evaluating model performance
-  * AIC (Akaike Information Criterion), BIC (Bayesian Information Criterion)
+---
 
+## Tech stack
 
+**Data engineering:** Snowflake, dbt, Fivetran, data pipelines, data warehousing
+**ML/AI:** Predictive modeling, NLP/LLMs, sentiment analysis, Snowflake Cortex, PyTorch, Hugging Face, prompt engineering
+**Visualization:** Tableau, D3
+**Languages:** Python, SQL, R
+**AI-accelerated dev:** Claude Code, Google Gemini, Cursor
+**Cloud & infra:** AWS (EC2, S3, Redshift), Vercel, Firebase, Supabase
+**Frontend (vibe coding):** Next.js, React, TypeScript, Tailwind CSS
 
-## Proficient coding skills
-* Python (Pandas, NumPy, SciPy, Matplotlib, plotnine,  Requests)
-* R (ggplot2, data.table, dplyr, tidyr, plotly, knitr, mlr3, caret)
-  * also various packages suited to analytical demands
-* SQL
-  * MySQL
-  * Amazon Redshift SQL
+---
 
+## Recent work
 
+**ExtraHop** — Built a churn prediction model (80%+ accuracy) that took Customer Success from zero visibility to proactive intervention. Implemented sentiment analysis pipelines with Snowflake Cortex for automated ticket classification. Designed scalable dbt pipelines transforming raw data into executive dashboards.
 
-## Other proficient tech skills and software
-* Python IDE
-  * Jupyter Notebook, PyCharm
-* RStudio
-* AWS cloud services
-  * EC2, Redshift, S3
-* Microsoft Office (Word, Excel, PowerPoint)
-* Google Suite (Docs, Sheets, Slides, Forms)
-* Slack
-* Zoom
-* Raspberry Pi
-* HTML, CSS
-* Daily user of iOS, iPadOS, Windows 10, and macOS
+**Pinwheel** — Developed NLP models with PyTorch and Hugging Face to classify bullying in kids' text conversations. Authored an academic paper shared with Georgia Tech faculty and Pinwheel's engineering team.
 
+---
 
+## Fun facts
 
-## I'm currently learning...
-* How to translate coursework into masterful portfolio projects :)
-* Georgia Tech Spring 2020: [CSE 6242: Data and Visual Analytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics)
-  * SQLite
-  * data cleaning
-  * data integration
-  * D3 (interactive data visualization for the web)
-  * scalable computing
-    * Hadoop, Pig, Hive, Spark, HBase
-  * classification and clustering
-  * graph analytics
-  * scaling up algorithms with virtual memory
-  * text analytics
+- 2010 USTA National Champion (Men's 3.5 Team Tennis)
+- Eagle Scout and Cubmaster for Pack 807, serving 100+ families
+- Taught 1,000+ AP students over 11 years
+- Lean Six Sigma Yellow Belt
 
+---
 
+## Get in touch
 
-## Future learning ambitions
-* further expand Python library knowledge: Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, PyTorch
-* Tableau
-* SCRUM and Agile
-
-
-
-## Fun fact
-I played varsity high school tennis for Plano East High School and was part of the 2010 USTA League National Championship team (3.5 - Adult 18 & Over).
-
-
-
-## How to reach me:
-* email: maschlosser@me.com
-* LinkedIn: https://www.linkedin.com/in/mattschlosser/
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/schl0ss/)
+- [mooring.social](https://mooring.social)
+- [Email](mailto:maschlosser@me.com)
