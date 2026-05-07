@@ -46,6 +46,7 @@ My personal site and portfolio.
 - 2010 USTA National Champion (Men's 3.5 Team Tennis)
 - Eagle Scout and Cubmaster for [Pack 807](https://pack807.info/), serving 100+ families
 - Taught 1,000+ AP students over 11 years
+- Department Chair for three years, including during the COVID-19 pandemic
 - Lean Six Sigma Yellow Belt
 
 ---
