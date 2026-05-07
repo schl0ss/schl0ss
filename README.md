@@ -35,7 +35,7 @@ My personal site and portfolio.
 
 ## Recent work
 
-**ExtraHop** — Built a churn prediction model (80%+ accuracy) that took Customer Success from zero visibility to proactive intervention. Implemented sentiment analysis pipelines with Snowflake Cortex for automated ticket classification. Designed scalable dbt pipelines transforming raw data into executive dashboards.
+**ExtraHop** — Built a churn prediction model (80%+ accuracy) that took Customer Success from zero visibility to proactive intervention. Implemented sentiment analysis pipelines with Snowflake Cortex for automated ticket classification. Designed scalable dbt pipelines transforming raw data into executive Tableau dashboards.
 
 **Pinwheel** — Developed NLP models with PyTorch and Hugging Face to classify bullying in kids' text conversations. Authored an academic paper shared with Georgia Tech faculty and Pinwheel's engineering team.
 
