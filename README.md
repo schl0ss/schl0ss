@@ -13,6 +13,14 @@ I ship projects with AI coding agents as daily tools. They have changed how I th
 ### University Resume Audit Study
 Current private, AI-driven project for university clients: a full-stack workflow automation portal for an academic resume audit study. It coordinates research-assistant job submissions, generated resume variants, employer-response logging, fuzzy employer deduplication, dashboards, exports, and production-readiness gates. Built with FastAPI, PostgreSQL, React/TypeScript, Railway, and Claude Code/Codex workflows.
 
+Universities involved:
+
+- Northwestern University
+- Texas A&M University
+- University of Texas at Dallas
+- University of South Carolina
+- Miami University
+
 ### [mooring.social](https://mooring.social)
 An invite-only, anti-algorithm social network where every user is verified by government ID. No bots, no fake accounts, no anonymous harassment. Think early Facebook/MySpace before the algorithms took over.
 
