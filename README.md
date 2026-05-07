@@ -52,6 +52,5 @@ My personal site and portfolio.
 
 ## Get in touch
 
+- [Website](https://schloss-boss.ai)
 - [LinkedIn](https://www.linkedin.com/in/schl0ss/)
-- [mooring.social](https://mooring.social)
-- [Email](mailto:maschlosser@me.com)
