@@ -23,13 +23,13 @@ My personal site and portfolio.
 
 ## Tech stack
 
-**Data engineering:** Snowflake, dbt, Fivetran, data pipelines, data warehousing
-**ML/AI:** Predictive modeling, NLP/LLMs, sentiment analysis, Snowflake Cortex, PyTorch, Hugging Face, prompt engineering
-**Visualization:** Tableau, D3
-**Languages:** Python, SQL, R
-**AI-accelerated dev:** Claude Code, Codex, Google Gemini, Cursor
-**Cloud & infra:** AWS (EC2, S3, Redshift), Vercel, Firebase, Supabase
-**AI-assisted product engineering:** Next.js, React, TypeScript, Tailwind CSS
+- **Data engineering:** Snowflake, dbt, Fivetran, data pipelines, data warehousing
+- **ML/AI:** Predictive modeling, NLP/LLMs, sentiment analysis, Snowflake Cortex, PyTorch, Hugging Face, prompt engineering
+- **Visualization:** Tableau, D3
+- **Languages:** Python, SQL, R
+- **AI-accelerated development:** Claude Code, Codex, Google Gemini, Cursor
+- **Cloud and infrastructure:** AWS (EC2, S3, Redshift), Vercel, Firebase, Supabase
+- **AI-assisted product engineering:** Next.js, React, TypeScript, Tailwind CSS
 
 ---
 
