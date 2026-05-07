@@ -29,7 +29,7 @@ My personal site and portfolio.
 **Languages:** Python, SQL, R
 **AI-accelerated dev:** Claude Code, Codex, Google Gemini, Cursor
 **Cloud & infra:** AWS (EC2, S3, Redshift), Vercel, Firebase, Supabase
-**Frontend (vibe coding):** Next.js, React, TypeScript, Tailwind CSS
+**AI-assisted product engineering:** Next.js, React, TypeScript, Tailwind CSS
 
 ---
 
