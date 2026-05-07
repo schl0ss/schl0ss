@@ -1,14 +1,14 @@
 # Hey, I'm Matt
 
-BI & ML Engineer. Former AP Stats & AP Calc BC teacher and tennis coach who pivoted to generative AI coding, data engineering, and machine learning. B.S. Mathematics from SMU, M.S. Analytics from Georgia Tech (4.0 GPA). All the details are on [LinkedIn](https://www.linkedin.com/in/schl0ss/).
+AI engineer building agentic workflows, production ML systems, data pipelines, and full-stack products. Former AP Stats and AP Calc BC teacher, Georgia Tech MS Analytics graduate, and production BI/ML engineer. 400+ hours across Claude Code and Codex. All the details are on [LinkedIn](https://www.linkedin.com/in/schl0ss/).
 
 Husband, father, Eagle Scout, Cubmaster, tennis player, Dallas Mavericks MFFL.
 
 ---
 
-## What I'm building with Claude Code
+## What I'm building with Claude Code and Codex
 
-I ship projects with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as my daily driver. It's changed how I think about building software — from idea to deployed product, fast.
+I ship projects with AI coding agents as daily tools. They have changed how I think about building software: context, constraints, verification, and production proof from idea to deployed product.
 
 ### [mooring.social](https://mooring.social)
 An invite-only, anti-algorithm social network where every user is verified by government ID. No bots, no fake accounts, no anonymous harassment. Think early Facebook/MySpace before the algorithms took over.
@@ -27,7 +27,7 @@ My personal site and portfolio.
 **ML/AI:** Predictive modeling, NLP/LLMs, sentiment analysis, Snowflake Cortex, PyTorch, Hugging Face, prompt engineering
 **Visualization:** Tableau, D3
 **Languages:** Python, SQL, R
-**AI-accelerated dev:** Claude Code, Google Gemini, Cursor
+**AI-accelerated dev:** Claude Code, Codex, Google Gemini, Cursor
 **Cloud & infra:** AWS (EC2, S3, Redshift), Vercel, Firebase, Supabase
 **Frontend (vibe coding):** Next.js, React, TypeScript, Tailwind CSS
 
