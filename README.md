@@ -1,4 +1,4 @@
-# Hey, I'm Matt
+# Matt Schlosser
 
 AI engineer building agentic workflows, production ML systems, data pipelines, and full-stack products. Former AP Stats and AP Calc BC teacher, Georgia Tech MS Analytics graduate, and production BI/ML engineer. 400+ hours across Claude Code and Codex. All the details are on [LinkedIn](https://www.linkedin.com/in/schl0ss/).
 
