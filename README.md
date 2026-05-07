@@ -10,11 +10,11 @@ Husband, father, Eagle Scout, Cubmaster, tennis player, FC Dallas and Dallas Mav
 
 I ship projects with AI coding agents as daily tools. They have changed how I think about building software: context, constraints, verification, and production proof from idea to deployed product.
 
+### University Resume Audit Study
+Current private, AI-driven project for university clients: a full-stack workflow automation portal for an academic resume audit study. It coordinates research-assistant job submissions, generated resume variants, employer-response logging, fuzzy employer deduplication, dashboards, exports, and production-readiness gates. Built with FastAPI, PostgreSQL, React/TypeScript, Railway, and Claude Code/Codex workflows.
+
 ### [mooring.social](https://mooring.social)
 An invite-only, anti-algorithm social network where every user is verified by government ID. No bots, no fake accounts, no anonymous harassment. Think early Facebook/MySpace before the algorithms took over.
-
-### Spike Squad Stat Tracker
-Initial Claude Code proving grounds. Real-time volleyball stat tracker built for my daughter's 2nd grade team.
 
 ### [schloss-boss.ai](https://schloss-boss.ai)
 My personal site and portfolio.
